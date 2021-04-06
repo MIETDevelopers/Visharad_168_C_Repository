@@ -23,5 +23,3 @@ int main()
   getch();
   return 0;
 }
-
-//It runs best in Windows Powershell.

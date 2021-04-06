@@ -1,4 +1,3 @@
-//© Ishav Verma 18/March/2021
 #include <stdio.h>
 #include <conio.h>
 
